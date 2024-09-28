@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lía
-- 👀 I’m interested in sustainable & slow fashion and coaching small companies on business topics (business strategy, operations and marketing)
+- 👀 I’m interested in sustainability & slow fashion and coaching small companies on business topics (business strategy, operations and marketing)
 - 🌱 I’m currently learning Python and Data Analytics
-- 💞️ I’m looking to collaborate on data projects mostly focus on Sustainability, Travel, Fashion and e-commerce industries
+- 💞️ I’m looking to collaborate on data projects to keep learning. My areas of expertise from business perspective are Solar Energy, Sustainability, Travel, Fashion and e-commerce industries
 - 📫 DM me if you want to collab
 - 😄 Pronouns: she/her
 - 🐶 and 🐈‍⬛ mother
