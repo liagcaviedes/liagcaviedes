@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Lía
-- 🌱 I’m interested in sustainability & slow fashion and coaching small companies
-- 👩🏻‍🎓 I’m currently learning Python and Data Analytics
-- 💞️ I’m looking to collaborate on data projects to keep learning.
+- 🌱 I’m interested in IA, sustainability & fashion
+- 👷🏻‍♀️ I coach small companieson how to boost their sales
+- 👩🏻‍🎓 Currently learning Python and Data Analytics
+- 💞️ Looking to collaborate on data projects to keep learning.
 - 🧪 Industries: Travel, Sustainability, Travel, Fashion, e-commerce and Solar Energy.
 - 🥼 Areas of expertise: Business Strategy, Business Operations, People Management, Marketing
 - 📫 DM me if you want to collab
