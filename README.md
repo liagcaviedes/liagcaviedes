@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Lía
 - 🌱 I’m interested in IA, sustainability & fashion
-- 👷🏻‍♀️ I coach small companies on how to boost their sales
+- 👷🏻‍♀️ I coach small companies on how to boost sales
 - 👩🏻‍🎓 Currently learning Python and Data Analytics
 - 💞️ Looking to collaborate on data projects to keep learning.
 - 🧪 Industries: Travel, Sustainability, Travel, Fashion, e-commerce and Solar Energy.
