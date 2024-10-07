@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Lía
-- 🌱 I’m interested in IA, sustainability & fashion
+- 🌱 I’m interested in Data, IA, sustainability & fashion
 - 👷🏻‍♀️ I coach small companies on how to boost sales
 - 👩🏻‍🎓 Currently learning Python, SQL and Data Analytics
 - 💞️ Looking to collaborate on data projects to keep learning.
